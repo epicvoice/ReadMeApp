@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP laptop\\OneDrive\\Pulpit\\Projekt\\LibraryApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D461C688-3264-4978-AC0B-8E4870FACA42}|LibraryApp\\LibraryApp.csproj|c:\\users\\hp laptop\\onedrive\\pulpit\\projekt\\libraryapp\\libraryapp\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D461C688-3264-4978-AC0B-8E4870FACA42}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D461C688-3264-4978-AC0B-8E4870FACA42}|LibraryApp\\LibraryApp.csproj|C:\\Users\\HP laptop\\OneDrive\\Pulpit\\Projekt\\LibraryApp\\libraryapp\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D461C688-3264-4978-AC0B-8E4870FACA42}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D461C688-3264-4978-AC0B-8E4870FACA42}|LibraryApp\\LibraryApp.csproj|C:\\Users\\HP laptop\\OneDrive\\Pulpit\\Projekt\\LibraryApp\\libraryapp\\strona_glowna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D461C688-3264-4978-AC0B-8E4870FACA42}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\strona_glowna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D461C688-3264-4978-AC0B-8E4870FACA42}|LibraryApp\\LibraryApp.csproj|C:\\Users\\HP laptop\\OneDrive\\Pulpit\\Projekt\\LibraryApp\\libraryapp\\strona_glowna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D461C688-3264-4978-AC0B-8E4870FACA42}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\strona_glowna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "strona_glowna.cs",
+              "DocumentMoniker": "C:\\Users\\HP laptop\\OneDrive\\Pulpit\\Projekt\\LibraryApp\\LibraryApp\\strona_glowna.cs",
+              "RelativeDocumentMoniker": "LibraryApp\\strona_glowna.cs",
+              "ToolTip": "C:\\Users\\HP laptop\\OneDrive\\Pulpit\\Projekt\\LibraryApp\\LibraryApp\\strona_glowna.cs",
+              "RelativeToolTip": "LibraryApp\\strona_glowna.cs",
+              "ViewState": "AQIAAL4AAAAAAAAAAAAUwNIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:41:17.658Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "profile.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\HP laptop\\OneDrive\\Pulpit\\Projekt\\LibraryApp\\LibraryApp\\profile.cs",
+              "RelativeDocumentMoniker": "LibraryApp\\profile.cs",
+              "ToolTip": "C:\\Users\\HP laptop\\OneDrive\\Pulpit\\Projekt\\LibraryApp\\LibraryApp\\profile.cs [Projekt]",
+              "RelativeToolTip": "LibraryApp\\profile.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T21:43:03.668Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "strona_glowna.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\HP laptop\\OneDrive\\Pulpit\\Projekt\\LibraryApp\\LibraryApp\\strona_glowna.cs",
+              "RelativeDocumentMoniker": "LibraryApp\\strona_glowna.cs",
+              "ToolTip": "C:\\Users\\HP laptop\\OneDrive\\Pulpit\\Projekt\\LibraryApp\\LibraryApp\\strona_glowna.cs [Projekt]",
+              "RelativeToolTip": "LibraryApp\\strona_glowna.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:41:09.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "profile.cs",
+              "DocumentMoniker": "C:\\Users\\HP laptop\\OneDrive\\Pulpit\\Projekt\\LibraryApp\\LibraryApp\\profile.cs",
+              "RelativeDocumentMoniker": "LibraryApp\\profile.cs",
+              "ToolTip": "C:\\Users\\HP laptop\\OneDrive\\Pulpit\\Projekt\\LibraryApp\\LibraryApp\\profile.cs",
+              "RelativeToolTip": "LibraryApp\\profile.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAiwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T19:57:03.651Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
